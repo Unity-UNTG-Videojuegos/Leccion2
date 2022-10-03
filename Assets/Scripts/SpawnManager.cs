@@ -2,7 +2,6 @@
 /*
 Rosas Castillo Gabriela
 Creación de videojuegos
-Lección1_Challenge 
 */
 
 using System.Collections;
